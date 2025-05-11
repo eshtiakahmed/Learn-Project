@@ -1,0 +1,124 @@
+@media screen and (max-width:575px){
+    nav{
+        display: list-item;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+    h2{
+        font-size: 25px;
+        line-height: 100%;
+    }
+    button{
+        font-size: 20px;
+        line-height: 85%;
+    }
+    .banner{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .b-h1{
+        font-size: 35px;      
+    }
+    .b-p{
+        font-size: 18px;
+    }
+    .b-btn{
+        font-size: 12px;
+        padding: 10px;
+    }
+    .details{
+        flex-direction: column;
+        text-align: center;
+    }
+    span{
+        height: 2px;
+        width: 150px;
+        margin-left: 78px;
+        width: 50%;
+        margin: 0 auto;
+    }
+    .benifit{
+        margin-top: 100px;
+    }
+    .b2-h3{
+        font-size: 35px;
+    }
+    .cards{
+        text-align: center;
+        margin-top: 20px;
+        grid-template-columns: repeat(1,1fr);
+     }
+    .bnft-h4{
+        margin-top: -10px;
+    }
+    .bnft-p2{
+       margin-top: -30px;
+    }
+    .banner2{
+       flex-direction: column;
+    }
+    .banner2-text{
+        text-align: center;
+    }
+    .banner2-img,img{
+        height: 270px;
+        width: 270px;
+    }
+    .popolar-card{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .pplr{
+        background-color: aliceblue;
+        box-shadow: 4px 4px 10px #6A6B6C;
+        border-radius: 30px;
+        padding: 15px;
+        margin-top: 20px;
+    }
+    .p-btn{
+        margin-left: 85px;
+    }
+    .student-platform{
+        grid-template-columns: repeat(1,1fr);
+        margin-top: 10px;
+    }
+    .Platform{
+        background-color: aliceblue;
+        box-shadow: 2px 2px 8px #6A6B6C;
+        border-radius: 20px;
+        /* padding: 30px 35px; */
+        margin-top: 20px;
+    }
+    .s-h4{
+        font-size: 25px;
+        margin-top: -15px;
+    }
+    .s-p2{
+        font-size: 10px;
+    }
+    .conclusion{
+        flex-direction: column;
+        text-align: center;
+    }
+    .c-h5{
+        margin-bottom: 25px;
+    }
+    .c-p{
+        margin-top: -15px;
+        font-size: 18px;
+    }
+    .c-p2{
+        margin-top: -15px;
+        font-size: 15px;
+    }
+    hr{
+        width: 250px;
+        height: 1px;
+        margin-top: 30px;
+        background-color: #FFFFFF;
+        border: none;
+    }
+    .C-p2{
+        font-size: 15px;  
+    }
+    
+}
